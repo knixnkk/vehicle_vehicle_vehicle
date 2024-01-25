@@ -1,0 +1,6 @@
+flask
+passlib
+pymongo
+requests
+pandas
+xlrd
