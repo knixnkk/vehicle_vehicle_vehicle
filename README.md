@@ -124,7 +124,7 @@ Thanks to Flask and MongoDB for providing excellent tools for web development an
 Special thanks to the contributors and the open-source community.
 ```
 ### Contact Information
-- For inquiries, please contact Your Name.
+- For inquiries, please contact KNIXNKK.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/knixnkk/vehicle_vehicle_vehicle?style=for-the-badge
