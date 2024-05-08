@@ -122,9 +122,9 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ```
 Thanks to Flask and MongoDB for providing excellent tools for web development and database management.
 Special thanks to the contributors and the open-source community.
-Contact Information
-For inquiries, please contact Your Name.
 ```
+### Contact Information
+- For inquiries, please contact Your Name.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/knixnkk/vehicle_vehicle_vehicle?style=for-the-badge
