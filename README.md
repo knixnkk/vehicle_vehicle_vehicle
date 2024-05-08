@@ -110,7 +110,9 @@ Users need to sign in to access their respective functionalities.
 ### File Upload:
 ```
 Upload student data files (CSV, XLSX, XLS).
-Contributing
+```
+### Contributing
+```
 Feel free to contribute to the project by opening issues or submitting pull requests.
 ```
 ### License
